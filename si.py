@@ -1,7 +1,7 @@
 import sys
 
-def simpleInt(pr, intr, time):
-    return (pr * intr * time) / 100
+def simpleInt(p, r, t):
+    return (p * r * t) / 100
 
 if __name__ == "__main__":
     principal = sys.argv[1]
