@@ -8,5 +8,5 @@ if __name__ == "__main__":
     interest = sys.argv[2]
     time = sys.argv[3]
 
-    si = simpleInt(p, r, t)
+    si = simpleInt(pr, intr, time)
     print("Simple Interest =", si)
